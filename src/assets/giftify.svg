@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="47" viewBox="0 0 146 47">
+  <g id="Grupo_21" data-name="Grupo 21" transform="translate(-355.029 -278.636)">
+    <g id="Logo_img" data-name="Logo img" transform="translate(355.217 283.146)">
+      <path id="Rectángulo_11" data-name="Rectángulo 11" d="M4,0h9a0,0,0,0,1,0,0V0A12,12,0,0,1,1,12H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(-0.187 12.489)" fill="#ff5e8d"/>
+      <path id="Rectángulo_15" data-name="Rectángulo 15" d="M6.5,0h0A6.5,6.5,0,0,1,13,6.5V13a0,0,0,0,1,0,0H6.5A6.5,6.5,0,0,1,0,6.5v0A6.5,6.5,0,0,1,6.5,0Z" transform="translate(-0.187 -0.511)" fill="#6252ff"/>
+      <path id="Rectángulo_12" data-name="Rectángulo 12" d="M0,0H8a4,4,0,0,1,4,4v8a0,0,0,0,1,0,0h0A12,12,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(12.813 12.489)" fill="#ff5e8d"/>
+      <path id="Rectángulo_16" data-name="Rectángulo 16" d="M6,0H6a6,6,0,0,1,6,6V7a6,6,0,0,1-6,6H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(12.813 -0.511)" fill="#73c3ff"/>
+      <path id="Rectángulo_13" data-name="Rectángulo 13" d="M12,0h0a0,0,0,0,1,0,0V9a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" transform="translate(12.813 24.489)" fill="#f663d1"/>
+      <path id="Rectángulo_14" data-name="Rectángulo 14" d="M0,0H0A13,13,0,0,1,13,13v0a0,0,0,0,1,0,0H4.333A4.333,4.333,0,0,1,0,8.667V0A0,0,0,0,1,0,0Z" transform="translate(-0.187 24.489)" fill="#fa3634"/>
+    </g>
+    <text id="giftify" transform="translate(445.029 315.636)" fill="#6252ff" font-size="46" font-family="Kano-regular, Kano" letter-spacing="-0.018em"><tspan x="-55.062" y="0">giftify</tspan></text>
+  </g>
+</svg>
